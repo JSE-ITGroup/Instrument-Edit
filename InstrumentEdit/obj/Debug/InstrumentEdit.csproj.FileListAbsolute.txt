@@ -1,0 +1,10 @@
+c:\users\au_xavier.watson\source\repos\InstrumentEdit\InstrumentEdit\bin\Debug\InstrumentEdit.exe.config
+c:\users\au_xavier.watson\source\repos\InstrumentEdit\InstrumentEdit\bin\Debug\InstrumentEdit.exe
+c:\users\au_xavier.watson\source\repos\InstrumentEdit\InstrumentEdit\bin\Debug\InstrumentEdit.pdb
+c:\users\au_xavier.watson\source\repos\InstrumentEdit\InstrumentEdit\obj\Debug\InstrumentEdit.csprojResolveAssemblyReference.cache
+c:\users\au_xavier.watson\source\repos\InstrumentEdit\InstrumentEdit\obj\Debug\InstrumentEdit.Form1.resources
+c:\users\au_xavier.watson\source\repos\InstrumentEdit\InstrumentEdit\obj\Debug\InstrumentEdit.Properties.Resources.resources
+c:\users\au_xavier.watson\source\repos\InstrumentEdit\InstrumentEdit\obj\Debug\InstrumentEdit.csproj.GenerateResource.Cache
+c:\users\au_xavier.watson\source\repos\InstrumentEdit\InstrumentEdit\obj\Debug\InstrumentEdit.csproj.CoreCompileInputs.cache
+c:\users\au_xavier.watson\source\repos\InstrumentEdit\InstrumentEdit\obj\Debug\InstrumentEdit.exe
+c:\users\au_xavier.watson\source\repos\InstrumentEdit\InstrumentEdit\obj\Debug\InstrumentEdit.pdb
